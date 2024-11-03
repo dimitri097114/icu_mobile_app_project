@@ -1,2 +1,2 @@
-# icu_mobile_app_project
-blueprint classroom
+# ICU_MOBILE_APP_PROJECT
+ICU_MOBILE_APP_PROJECT
